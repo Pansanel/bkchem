@@ -1,0 +1,2 @@
+#!/bin/sh
+python /home/jerome/bkchem/bkchem/lib/python2.7/site-packages/bkchem/bkchem.py "$@"

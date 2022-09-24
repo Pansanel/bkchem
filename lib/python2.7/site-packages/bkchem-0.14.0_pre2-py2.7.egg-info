@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: bkchem
+Version: 0.14.0-pre2
+Summary: BKChem is a chemical drawing program written in Python
+Home-page: http://bkchem.zirael.org
+Author: Reinis Danne
+Author-email: rei4dan@gmail.com
+License: GNU GPL
+Description: BKChem is a chemical drawing program written in Python
+Platform: Unix
+Platform: Windows
+Platform: hopefully other OSes able to run Python
